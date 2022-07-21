@@ -1,4 +1,4 @@
-package aula.facul;
+package IMC;
 
 import java.util.Scanner;
 
